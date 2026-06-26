@@ -166,22 +166,4 @@ void loop() {
             hasBeenShown=false;
         }
     }
-    // if (digitalRead(6) == LOW) {
-    //     digitalWrite(11, HIGH);
-    //     playTone(1519, 250);
-    // } else {
-    //     digitalWrite(11, LOW);
-    // }
-    // if (digitalRead(5) == LOW) {
-    //     digitalWrite(10, HIGH);
-    //     playTone(1275, 250);
-    // } else {
-    //     digitalWrite(10, LOW);
-    // }
-    // if (digitalRead(4) == LOW) {
-    //     digitalWrite(9, HIGH);
-    //     playTone(956, 250);
-    // } else {
-    //     digitalWrite(9, LOW);
-    // }
  }
