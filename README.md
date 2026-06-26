@@ -1,6 +1,6 @@
 # arduino-simon
 
-This is a recreation of the game SIMON using arduino!
+This is a recreation of the game SIMON using arduino! I'm brand new to breadboards and resistors and all so it was a fun project.
 
 ## Breadboard wiring:
 
