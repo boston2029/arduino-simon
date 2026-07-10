@@ -69,7 +69,7 @@ GND to - on both sides.
 
 ### Getting all 4 LEDs to work and the buzzer
 
-![LEDs and buzzer flashing](media/leds-and-buzzer.mp4)
+<video src="media/leds-and-buzzer.mp4" width="320" height="240" controls></video>
 
 ### Final Demo
 
