@@ -69,8 +69,8 @@ GND to - on both sides.
 
 ### Getting all 4 LEDs to work and the buzzer
 
-<video src="media/leds-and-buzzer.mp4" width="320" height="240" controls></video>
+https://github.com/user-attachments/assets/de86486d-c267-4c50-8e0b-09005c48212c
 
 ### Final Demo
 
-![simon demo](media/demo.mp4)
+https://github.com/user-attachments/assets/6784bc96-22d6-4758-b479-4dfce07d3529
